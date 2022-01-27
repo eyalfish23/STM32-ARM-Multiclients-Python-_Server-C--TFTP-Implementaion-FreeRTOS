@@ -1,0 +1,15 @@
+main.c:88:5:__io_putchar	16	static
+main.c:130:5:main	48	static
+main.c:215:6:SystemClock_Config	88	static
+main.c:262:13:MX_USART3_UART_Init	8	static
+main.c:297:13:MX_USB_OTG_FS_PCD_Init	8	static
+main.c:332:13:MX_GPIO_Init	56	static
+main.c:379:13:udp_server_recv	72	static
+main.c:402:6:vSessionTask	1680	static
+main.c:743:5:write_data_to_flash_memory	24	static
+main.c:783:5:read_data_from_flash_memory	32	static
+main.c:849:6:print_stored_files	24	static
+main.c:868:6:get_all_files	40	static
+main.c:905:6:StartDefaultTask	16	static
+main.c:931:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:948:6:Error_Handler	4	static,ignoring_inline_asm
